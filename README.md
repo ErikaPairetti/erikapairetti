@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erika Pairetti</h1>
+<h1 align="left">Hi 👋, I'm Erika Pairetti 👨‍💻</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>

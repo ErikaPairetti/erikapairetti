@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Erika 👨‍💻</h1>
-<h4 align="legt">A passionate Junior Developer from Argentina</h4>
+<h4 align="legt">A passionate Frontend Developer Jr.</h4>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
